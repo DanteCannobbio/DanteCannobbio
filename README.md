@@ -1,5 +1,5 @@
-👋 Hi, I’m @DanteCannobbio 
-👀 I’m interested in SQL or Web Development
-💻 I’m currently learning C++ and Python!
-🚹 How to reach me: Dante Cannobbio in LinkedIn!
-🤝 Thanks for see this profile!
+1. 👋 Hi, I’m **@DanteCannobbio**
+2. 👀 I’m interested in **SQL** or **Web Development**
+3. 📖 I’m currently learning **C++** and **Python!**
+4. 🔗 How to reach me: DanteCannobbio in LinkedIn!
+5. 🖐️ Thanks for visiting this profile!
